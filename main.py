@@ -1,8 +1,3 @@
-# Author: Atanu Sarkar
-# Space Invaders (my version)
-# v1.1.4
-# 11-April-2020, 03:04 AM (IST)
-
 import pygame
 import random
 import math
